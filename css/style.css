@@ -1,0 +1,56 @@
+
+
+.attribution { 
+  font-size: 11px; text-align: center; }
+.attribution a { 
+  color: hsl(228, 45%, 44%); }
+
+body {
+  background-image: url("/images/pattern-background-desktop.svg");
+  text-align: center;
+}
+
+
+
+.card {
+  width: 300px;
+  min-height:500px;
+  margin-top: 100px;
+  
+}
+
+
+#change {
+  display: inline;
+  position:relative;
+  top:12px;
+}
+
+#proceed {
+  background-color:rgb(122, 43, 226);
+  color:white;
+  border-radius: 15px;
+}
+
+#topcontent {
+  border-radius: 15px;
+}
+
+#middlecontent {
+  height:70px;
+  width: 280px;
+  background-color:rgb(231, 235, 235);
+  position:relative;
+  left:10px;
+  border-radius: 15px;
+}
+
+#price {
+  font-size:0.875em; 
+}
+
+
+#musicimage {
+  position:relative;
+  top:7px;
+}
